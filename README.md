@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Reinforcement Learning for Finance**
 
-- 🌱 I’m currently learning **C, C++, Reinforcement Learning**
+- 🌱 I’m currently learning **Reinforcement Learning and R language**
 
-- 👯 I’m looking to collaborate on **Optimization and Statistics projects**
+- 👯 I’m looking to collaborate on **Optimization, Statistics and Data Science projects**
 
 - 📫 How to reach me **ligabogabriel@usp.br**
 
