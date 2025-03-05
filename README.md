@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and R language**
 
-- 👯 I’m looking to collaborate on **Optimization, Statistics and Data Science projects**
+- 👯 I’m looking to collaborate on **Statistics, Optimization and Data Science projects**
 
 - 📫 How to reach me **ligabogabriel@usp.br**
 
