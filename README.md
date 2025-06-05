@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Statistics student at the University of São Paulo, with a strong interest in data science, optimization, and reinforcement learning. Enthusiastic about applying statistical and mathematical methods and algorithms to solve real-world problems and drive innovation in diverse fields.</h3>
+<h3 align="center">A passionate Statistics student at the University of São Paulo, with a strong interest in data science, optimization, and probability theory. Enthusiastic about applying statistical and mathematical methods and algorithms to solve real-world problems and drive innovation in diverse fields.</h3>
 
-- 🔭 I’m currently working on **Reinforcement Learning for Finance**
+- 🔭 I’m currently working on **Non-Linear Optimization**
 
-- 🌱 I’m currently learning **Reinforcement Learning and R language**
+- 🌱 I’m currently learning **Optimization methods for image reconstrunction**
 
 - 👯 I’m looking to collaborate on **Statistics, Optimization and Data Science projects**
 
